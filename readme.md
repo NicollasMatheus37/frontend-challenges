@@ -16,7 +16,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Buscapé](https://www.buscape.com.br/) | HTML, CSS & JS | [Code →](https://github.com/buscape-company/exercicios/tree/master/frontend)
 | :brazil: | [Chaordic](https://www.chaordic.com.br/) | HTML, CSS & JS | [Code →](https://github.com/chaordic/frontend-intern-challenge)
 | :brazil: | [Ciclic](https://www.ciclic.com.br/) | HTML, CSS & JS | [Code →](https://github.com/ciclic/test-frontend)
-| :brazil: | [Clima Tempo](http://www.climatempo.com.br/) | NodeJS & PHP | [Code →](https://github.com/climatempo/challenge-accepted)
 | :brazil: | [Concrete Solutions](https://www.concrete.com.br/) | HTML, CSS & JS | [Code →](https://github.com/concretesolutions/recrutamento-fe)
 | :brazil: | [Conpass](https://www.conpass.io/) | HTML, CSS & JS, React, Redux | [Code →](https://github.com/Conpass/challenges/blob/master/Frontend-Challenge.md)
 | :brazil: | [Creditas](http://creditas.com.br/) | HTML, CSS & JS | [Code →](https://github.com/Creditas/challenge/tree/master/frontend)
@@ -33,7 +32,6 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Tagview](https://www.tagview.com.br/) | HTML, CSS & JS | [Code →](https://github.com/tagview/tagchatter)
 | :us: | [TenantBase](http://tenantbase.com/) | HTML, CSS & jQuery | [Code →](https://github.com/TenantBase/hiring-frontend-challenge)
 | :brazil: | [Trampos](http://trampos.co/) | HTML, CSS & JS | [Code →](https://github.com/trampos/glowing-octo-batman)
-| :brazil: | [Viva Real](https://www.vivareal.com.br/) | HTML, Preprocessor CSS & JS | [Code →](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
 | :brazil: | [Woop Sicredi](https://www.woopsicredi.com/) | Angular | [Code →](https://github.com/WoopSicredi/jobs/issues/6)
 
 ## License
