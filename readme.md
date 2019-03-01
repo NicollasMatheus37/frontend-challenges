@@ -34,6 +34,11 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :brazil: | [Trampos](http://trampos.co/) | HTML, CSS & JS | [Code →](https://github.com/trampos/glowing-octo-batman)
 | :brazil: | [Woop Sicredi](https://www.woopsicredi.com/) | Angular | [Code →](https://github.com/WoopSicredi/jobs/issues/6)
 
+### New - added by Nicollas Pereira
+| | Company | Stack | Test
+|--|--|--|--
+| :brazil: | [NuBank](https://nubank.com.br/) | ANGULAR 6/7 | Copy html and css, create a similar platform
+
 ## License
 
 [MIT](/license) &copy; Felipe Fialho
